@@ -1,1 +1,1 @@
-# Project-in-Python
+# Project-in-Python - Takes input from users to create matrix of demensions between 0 and 500000. Also creates matrices of desired addition, substraction, division or multiplication. There is also a runtime file to check how long each function took to execute.
